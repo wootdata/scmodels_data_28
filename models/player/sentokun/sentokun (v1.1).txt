@@ -1,0 +1,16 @@
+------------------------------------------------------
+Sento-kun (Nara city's mascot character)
+for Sven Co-op 5.0 player model
+
+Kimo Kawaii.
+Nice Na Nara.
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI, EDGE
+Website: http://www.geocities.jp/tepodonsc35/
+
+07-06-2017 updated ver1.1 (Fixed Animation, Skin)
+03-06-2017 completed
+------------------------------------------------------
