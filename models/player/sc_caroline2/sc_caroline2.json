@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "0", "seq": "182", "file": "scmod/player/caroline_pain2.wav"}, {"frame": "0", "seq": "184", "file": "scmod/player/caroline_pain1.wav"}], "tri_count": "6087", "hash": "2d6216998638a7358e1a08c8e1c49f7d"}
+{"events": [{"file": "scmod/player/caroline_pain2.wav", "frame": "0", "seq": "182"}, {"file": "scmod/player/caroline_pain1.wav", "frame": "0", "seq": "184"}], "tri_count": "6087", "hash": "2d6216998638a7358e1a08c8e1c49f7d", "seq_groups": 1}
