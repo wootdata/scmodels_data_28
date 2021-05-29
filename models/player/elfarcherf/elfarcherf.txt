@@ -1,0 +1,11 @@
+Night Elf Archer
+
+Thanks to WarCraftIII modellers.
+
+Mesh converted, optimized and edited by XWider.
+
+3.0.2.3
+X-amulet. (c)
+Fixed smoothing.
+Reduced vertex count.
+Re-textured.

@@ -1,0 +1,3 @@
+unzip in tfc\models\player\medic
+
+
