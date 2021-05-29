@@ -1394,13 +1394,13 @@
 		{
 			"flags": 0,
 			"height": 200,
-			"name": "Ärmel.bmp",
+			"name": "rmel.bmp",
 			"width": 100
 		}, 
 		{
 			"flags": 0,
 			"height": 100,
-			"name": "Hände.bmp",
+			"name": "Hnde.bmp",
 			"width": 100
 		}, 
 		{
@@ -1424,7 +1424,7 @@
 		{
 			"flags": 0,
 			"height": 100,
-			"name": "Löffel.bmp",
+			"name": "Lffel.bmp",
 			"width": 52
 		}
 	],
