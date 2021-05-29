@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "639301a370e8ac009fa106927a86790c", "tri_count": "180"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sprt_tiefighter.mdl",
+					"polys": 180,
+					"verts": 92
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "639301a370e8ac009fa106927a86790c",
+	"name": "C:\\Users\\Logen\\Desktop\\sprt_tiefighter.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 69.000000,
+			"frames": 1,
+			"name": "kHED"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "kHED",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "tie_uv.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

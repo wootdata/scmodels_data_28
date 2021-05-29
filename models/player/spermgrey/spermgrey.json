@@ -1,1 +1,57 @@
-{"seq_groups": 1, "hash": "e5878ee7cecd77313dce4019235fcee0", "tri_count": "48"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "spit",
+					"polys": 48,
+					"verts": 22
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e5878ee7cecd77313dce4019235fcee0",
+	"name": "valve/models/spit.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 11,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone04",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 2
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "spit.bmp",
+			"width": 36
+		}
+	],
+	"version": 10
+}
