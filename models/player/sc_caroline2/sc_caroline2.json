@@ -326,25 +326,11 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "scmod/player/caroline_pain2.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "scmod/player/caroline_pain1.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "2d6216998638a7358e1a08c8e1c49f7d",
-	"name": "sc_caroline2.mdl",
+	"md5": "ab5889d538ad4aa3835dc4f2b4e3b142",
+	"name": "sc_caroline.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1303,7 +1289,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2762396,
+	"size": 2762368,
 	"skeleton": [
 		{
 			"name": "Bip01",

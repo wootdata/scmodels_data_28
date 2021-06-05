@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 29,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 29,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 29,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_recruit_reference",
-					"polys": 478,
-					"verts": 247
+					"name": "recruit2_recruit_reference",
+					"polys": 492,
+					"verts": 262
 				}
 			],
 			"name": "body"
@@ -141,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -296,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "cb18347a25b141a20ccfb2af67359de0",
-	"name": "recruit.mdl",
+	"md5": "a416d14ab00d201224a3695591d701a9",
+	"name": "recruit2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1242,7 +1247,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1256,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1150372,
+	"size": 1175800,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1315,36 +1320,52 @@
 			"parent": 12
 		}, 
 		{
+			"name": "Bone02",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 14
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Arm2",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 L Hand",
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 21
+		}, 
+		{
 			"name": "Bip01 L Finger1",
-			"parent": 17
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 20
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1352,31 +1373,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger01",
 			"parent": 26
 		}, 
 		{
+			"name": "Bip01 R Arm2",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 31
+		}, 
+		{
 			"name": "Bip01 R Finger1",
-			"parent": 25
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 28
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 34
 		}
 	],
 	"skins": 1,
@@ -1385,7 +1414,7 @@
 		{
 			"flags": 0,
 			"height": 509,
-			"name": "recruit.BMP",
+			"name": "recruit_wt.bmp",
 			"width": 508
 		}
 	],
