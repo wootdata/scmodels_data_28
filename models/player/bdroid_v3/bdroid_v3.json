@@ -11,11 +11,6 @@
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
 			"bone": 21,
 			"name": "",
 			"type": 0
@@ -25,12 +20,12 @@
 		{
 			"models": [
 				{
-					"name": "character",
-					"polys": 3146,
-					"verts": 1631
+					"name": "bdroid_fixed",
+					"polys": 3030,
+					"verts": 1515
 				}
 			],
-			"name": "body"
+			"name": "fix"
 		}
 	],
 	"controllers": [
@@ -120,56 +115,56 @@
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "21",
+			"options": "15",
 			"sequence": 49,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "21",
+			"options": "15",
 			"sequence": 53,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "31",
+			"options": "15",
 			"sequence": 57,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "31",
+			"options": "15",
 			"sequence": 61,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "51",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "51",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "40",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "40",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "049fdad5eafce34c57c39e2449b52d46",
-	"name": "mafioso2.mdl",
+	"md5": "ee81e5e7e279dce8a17d1ed8dea66fe9",
+	"name": "bdroid.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -323,12 +318,12 @@
 		{
 			"fps": 40.000000,
 			"frames": 25,
-			"name": "run"
+			"name": "run2"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk"
+			"name": "walk2handed"
 		}, 
 		{
 			"fps": 20.000000,
@@ -347,7 +342,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 128,
+			"frames": 34,
 			"name": "jump"
 		}, 
 		{
@@ -431,7 +426,7 @@
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
-			"fps": 7.000000,
+			"fps": 10.000000,
 			"frames": 9,
 			"name": "ref_cock_wrench"
 		}, 
@@ -446,7 +441,7 @@
 			"name": "ref_shoot_wrench"
 		}, 
 		{
-			"fps": 7.000000,
+			"fps": 10.000000,
 			"frames": 9,
 			"name": "crouch_cock_wrench"
 		}, 
@@ -1213,10 +1208,55 @@
 		{
 			"fps": 10.000000,
 			"frames": 1,
-			"name": "ShannonCaldwell_v1.0"
+			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 71,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1679668,
+	"size": 1432124,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,16 +1311,24 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 14
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1288,23 +1336,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 16
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 18
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1313,26 +1353,14 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "body.bmp",
+			"name": "TORSO.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "hands.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "face.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "legs.bmp",
-			"width": 512
+			"height": 384,
+			"name": "HEAD.bmp",
+			"width": 768
 		}
 	],
 	"version": 10

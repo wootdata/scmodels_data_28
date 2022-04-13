@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "opfor_recon_Raptor",
+					"name": "Raptor",
 					"polys": 3016,
-					"verts": 1595
+					"verts": 1596
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "064bc7865389fdcec748588d32a72292",
-	"name": "opfor_recon.mdl",
+	"md5": "d8a740416dc6ab9233d181200a17fd75",
+	"name": "recon.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1455060,
+	"size": 1401488,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1405,6 +1360,18 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_commander_wht.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "soldier_beret_red.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
 			"height": 384,
 			"name": "soldier_body.bmp",
 			"width": 384
@@ -1456,18 +1423,6 @@
 			"height": 192,
 			"name": "soldier_boots.bmp",
 			"width": 192
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "soldier_head_recon_wht.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "soldier_beret_red.bmp",
-			"width": 128
 		}
 	],
 	"version": 10

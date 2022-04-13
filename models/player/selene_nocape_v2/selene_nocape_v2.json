@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "character",
-					"polys": 3146,
-					"verts": 1631
+					"name": "selene2",
+					"polys": 3353,
+					"verts": 1685
 				}
 			],
 			"name": "body"
@@ -120,56 +120,56 @@
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "21",
+			"options": "15",
 			"sequence": 49,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "21",
+			"options": "15",
 			"sequence": 53,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "31",
+			"options": "15",
 			"sequence": 57,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "31",
+			"options": "15",
 			"sequence": 61,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "51",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "51",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "40",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "40",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "049fdad5eafce34c57c39e2449b52d46",
-	"name": "mafioso2.mdl",
+	"md5": "6a5f82ece4fe0a79af986159066eee56",
+	"name": "selene_nocape.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -323,12 +323,12 @@
 		{
 			"fps": 40.000000,
 			"frames": 25,
-			"name": "run"
+			"name": "run2"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk"
+			"name": "walk2handed"
 		}, 
 		{
 			"fps": 20.000000,
@@ -431,7 +431,7 @@
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
-			"fps": 7.000000,
+			"fps": 10.000000,
 			"frames": 9,
 			"name": "ref_cock_wrench"
 		}, 
@@ -446,7 +446,7 @@
 			"name": "ref_shoot_wrench"
 		}, 
 		{
-			"fps": 7.000000,
+			"fps": 10.000000,
 			"frames": 9,
 			"name": "crouch_cock_wrench"
 		}, 
@@ -1213,10 +1213,10 @@
 		{
 			"fps": 10.000000,
 			"frames": 1,
-			"name": "ShannonCaldwell_v1.0"
+			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1679668,
+	"size": 1497648,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,16 +1271,40 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Joint57",
+			"parent": 13
+		}, 
+		{
+			"name": "Joint58",
+			"parent": 13
+		}, 
+		{
+			"name": "Joint59",
+			"parent": 13
+		}, 
+		{
+			"name": "Joint60",
+			"parent": 13
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 14
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1288,23 +1312,23 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 16
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 18
+			"parent": 24
+		}, 
+		{
+			"name": "Joint55",
+			"parent": 11
+		}, 
+		{
+			"name": "Joint56",
+			"parent": 11
 		}
 	],
 	"skins": 1,
@@ -1312,27 +1336,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "body.bmp",
-			"width": 512
+			"height": 675,
+			"name": "coat_2.bmp",
+			"width": 388
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "hands.bmp",
-			"width": 256
+			"height": 509,
+			"name": "BODYMESH2.bmp",
+			"width": 436
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "face.bmp",
-			"width": 512
+			"height": 265,
+			"name": "face4.bmp",
+			"width": 240
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "legs.bmp",
-			"width": 512
+			"height": 185,
+			"name": "beckinsale4.bmp",
+			"width": 260
+		}, 
+		{
+			"flags": 0,
+			"height": 56,
+			"name": "eyeball.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "hand.bmp",
+			"width": 144
+		}, 
+		{
+			"flags": 0,
+			"height": 67,
+			"name": "teeth.bmp",
+			"width": 228
 		}
 	],
 	"version": 10

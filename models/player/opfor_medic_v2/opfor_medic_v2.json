@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "opfor_medic_Raptor",
+					"name": "Argentina",
 					"polys": 2397,
 					"verts": 1290
 				}
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f02170a19a24539dc968e2291027d4b9",
-	"name": "opfor_medic.mdl",
+	"md5": "72bdff705a16d7d2660d94cbde627511",
+	"name": "medic.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1399320,
+	"size": 1346024,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1423,12 +1378,6 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "soldier_pouches.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
 			"height": 131,
 			"name": "soldier_backpack.bmp",
 			"width": 236
@@ -1450,6 +1399,12 @@
 			"height": 192,
 			"name": "soldier_boots.bmp",
 			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_pouches.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
