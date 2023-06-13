@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -20,22 +25,12 @@
 		{
 			"models": [
 				{
-					"name": "OP4_Grunt_Body_Ref",
-					"polys": 492,
-					"verts": 260
+					"name": "re_succ_marksman_unit_terror",
+					"polys": 1509,
+					"verts": 799
 				}
 			],
 			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "OP4_Scientist_Einstein_Head_Ref",
-					"polys": 246,
-					"verts": 143
-				}
-			],
-			"name": "head"
 		}
 	],
 	"controllers": [
@@ -181,14 +176,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -306,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "495543a064f5e492d71f202e60f3e2f0",
-	"name": "OP4_Scientist_Einstein.mdl",
+	"md5": "de80d7d3225830de2676ff04ac240d6d",
+	"name": "re_succ_combat_response_unit.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1264,9 +1259,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1036484,
+	"size": 1163072,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1321,44 +1321,24 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Hand",
 			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1366,43 +1346,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1410,63 +1362,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 140,
-			"name": "OP4_Soldier.bmp",
+			"height": 512,
+			"name": "terror_body.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "terror_head3.bmp",
 			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "OP4_Hands.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 156,
-			"name": "remap1_000_126_255.bmp",
-			"width": 312
-		}, 
-		{
-			"flags": 0,
-			"height": 36,
-			"name": "Hair_Side2.bmp",
-			"width": 44
-		}, 
-		{
-			"flags": 0,
-			"height": 97,
-			"name": "Face1.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
-			"height": 45,
-			"name": "Hair_Side1.bmp",
-			"width": 36
-		}, 
-		{
-			"flags": 0,
-			"height": 17,
-			"name": "Stache1.bmp",
-			"width": 44
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "Sci2_Tounge.bmp",
-			"width": 20
-		}, 
-		{
-			"flags": 0,
-			"height": 6,
-			"name": "Sci2_Teeth.bmp",
-			"width": 48
-		}, 
-		{
-			"flags": 0,
-			"height": 29,
-			"name": "Sci3(Shoe).bmp",
-			"width": 72
 		}
 	],
 	"version": 10
