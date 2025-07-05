@@ -766,7 +766,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "91eb61edddf1b92320cc97b6f0c2e94a",
+	"md5": "a1a5f9356a1fa1458d72b006908b1343",
 	"name": "Closers_Tina.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -817,7 +817,7 @@
 		}, 
 		{
 			"fps": 52.000000,
-			"frames": 36,
+			"frames": 44,
 			"name": "long_jump"
 		}, 
 		{
@@ -1582,7 +1582,7 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 59,
+			"frames": 57,
 			"name": "ref_reload_sniper"
 		}, 
 		{
@@ -1731,7 +1731,7 @@
 			"name": "Do not Rename please!"
 		}
 	],
-	"size": 2058760,
+	"size": 2060168,
 	"skeleton": [
 		{
 			"name": "Bip01",
