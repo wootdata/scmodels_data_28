@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eac1ea743a549f0ebd9a15792cea1aa6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MrBlonde.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

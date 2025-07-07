@@ -33,6 +33,7 @@
 			"name": "Miles_'Tails'_Prower"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -638,7 +639,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fc716508e07a654fb7960d7f57a93c53",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bloodroke.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

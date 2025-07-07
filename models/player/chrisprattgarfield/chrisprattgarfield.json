@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ce0bab1f38e5cd5ffbb46b2bfcb7c1eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ChrisPrattGarfield.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

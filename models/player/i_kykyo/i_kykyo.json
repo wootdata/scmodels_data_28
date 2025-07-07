@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -382,7 +383,11 @@
 	],
 	"id": 1414743113,
 	"md5": "805c80ef1fa3ffb85bc82fc3b13d100a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "I_Kykyo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

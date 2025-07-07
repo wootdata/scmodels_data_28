@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -476,7 +477,11 @@
 	],
 	"id": 1414743113,
 	"md5": "39c8ab93e2efdee48a467eed2e2fef2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Miside_Cool_Mita.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "98161259b58a496e1c0600399ccfbab8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aswat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

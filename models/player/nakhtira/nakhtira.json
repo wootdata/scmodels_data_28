@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "10948d4d8e851e6115655a52ce2c7556",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NakhtiRa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

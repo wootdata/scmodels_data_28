@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8f27e247989d520f50a5c332139a1526",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KOF_Orochi97.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

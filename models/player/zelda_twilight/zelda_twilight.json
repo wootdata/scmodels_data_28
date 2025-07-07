@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9a1c0582f805bf6fddb0f1301fece7e7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zelda_twilight.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

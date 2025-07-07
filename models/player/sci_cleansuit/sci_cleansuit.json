@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7069704021e98aa4d109cf7a631e51b4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sci_cleansuit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

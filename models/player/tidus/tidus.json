@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ce271d4fe0e126be890b279c9e9bbfaa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Tidus.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

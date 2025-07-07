@@ -83,6 +83,7 @@
 			"name": "cab"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2118cbb20501650e8dcad22fffa8f529",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "keine.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

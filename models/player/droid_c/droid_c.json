@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a5647f9bbb7d47a8e871ea9b78b76e5a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bdroid_a.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ff7c8b1d33ccc56245f61ef17d6e58a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "heavy_spetznaz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

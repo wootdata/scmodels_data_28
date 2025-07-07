@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6b6ed441b978b98c1cc5c052e1a68cf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alien.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

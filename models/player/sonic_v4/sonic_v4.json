@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "879a99b4f958be86a0c4a2cc8223be49",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sonic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

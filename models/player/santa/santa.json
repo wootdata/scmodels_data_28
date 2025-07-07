@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5171e8a3e362c060a6e508c79f658872",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "santa.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

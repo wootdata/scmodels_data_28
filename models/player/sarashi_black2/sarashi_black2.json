@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8ac78b969d3b4a56b3c1e5a21f21fca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

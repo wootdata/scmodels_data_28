@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4acd1d29b0ecbde05e2c4a88e6987515",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kumamon.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

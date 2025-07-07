@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b9b46f9d6dfdaaf9e9d88ec8a2b1be2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "satoshi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

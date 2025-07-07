@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c77f9fcb6470d8e35bcdde1920cc0f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AlphaWolf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

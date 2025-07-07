@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "261b4ca657f4f06a0a69173e207d67a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SMB_BlueTeam.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

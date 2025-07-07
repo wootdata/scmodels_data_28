@@ -143,6 +143,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "de8a4473d6b34d22fc61373d29ba58eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "armyoftwo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

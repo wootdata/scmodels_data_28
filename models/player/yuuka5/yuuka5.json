@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6c2eb634e425831a30eb7b6cb2fe031",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yuuka1.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

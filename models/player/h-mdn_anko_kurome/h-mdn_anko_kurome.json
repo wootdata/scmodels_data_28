@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1891d6b30978ebbfbfced5a566573dd9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "H-MDN_Tenno_Kurome.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

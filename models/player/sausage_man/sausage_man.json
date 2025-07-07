@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0989df09362349a3b00bf94f1f071917",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sausage_man.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

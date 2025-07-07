@@ -73,6 +73,7 @@
 			"name": "badge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "37cd4cabe0422b50a679e628440eab6f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_ma.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b887ecfeec94d9502fc8d6234b8cfbfc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Carrier.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -875,7 +876,11 @@
 	],
 	"id": 1414743113,
 	"md5": "15ba02e4041a8369788c61cfdca661a0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GF_UMP45.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

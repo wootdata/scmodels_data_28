@@ -313,6 +313,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -962,7 +963,11 @@
 	],
 	"id": 1414743113,
 	"md5": "baef9a240cfee23ba6a5026ca1597382",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GFL_Negev_Swim.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

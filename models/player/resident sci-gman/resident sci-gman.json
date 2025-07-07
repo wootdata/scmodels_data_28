@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3c967ab1c67b2220dfd77420946f318",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\swarm\\sci\\sciguy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

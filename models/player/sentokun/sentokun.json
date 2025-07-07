@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "08ec4c9efc6b01323890c297df8b7762",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sentokun.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

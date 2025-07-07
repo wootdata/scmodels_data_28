@@ -38,6 +38,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -399,7 +400,11 @@
 	],
 	"id": 1414743113,
 	"md5": "67c370ec0aa1a086de313ccfbd03cc35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gsg9.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

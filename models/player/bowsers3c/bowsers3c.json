@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "41a32011fc11e086c2ea4b6c93ee67de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SuperMarioSkinPack\\BowserS3C\\BowserS3C.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

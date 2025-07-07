@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e81b57c9e29baf67f89be8079bb10b5d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "butch.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

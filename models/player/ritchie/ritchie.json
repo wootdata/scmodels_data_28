@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2356faf22af1f2d32ff3ccfa323e8b8f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ritchie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

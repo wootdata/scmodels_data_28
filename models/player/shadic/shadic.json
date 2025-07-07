@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8334122865ef1a98e6f263ffe954826d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shadic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b300a971aef3d167ac3d251bb2361d65",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "psycho2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

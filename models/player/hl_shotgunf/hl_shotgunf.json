@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d96759140c597d6f1acba6ac3fd7ecdc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HL_ShotgunF.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

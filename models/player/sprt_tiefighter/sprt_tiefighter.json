@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1382037587,
 	"events": [],
 	"id": 1414743113,
 	"md5": "639301a370e8ac009fa106927a86790c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Logen\\Desktop\\sprt_tiefighter.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

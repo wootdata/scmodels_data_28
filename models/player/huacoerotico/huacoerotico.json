@@ -43,6 +43,7 @@
 			"name": "tula"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cfa7588cc20f556b00edca72989b2199",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HuacoErotico.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

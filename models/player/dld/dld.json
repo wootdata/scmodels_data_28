@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3f6de4f0a7fe726f5cc5c3313fc1101",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "david_leatherhoff.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

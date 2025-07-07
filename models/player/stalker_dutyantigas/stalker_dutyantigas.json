@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -271,7 +272,11 @@
 	],
 	"id": 1414743113,
 	"md5": "de6a883f7f91dd0457c7d60796c5fdb8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "grunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

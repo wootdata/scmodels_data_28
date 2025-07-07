@@ -43,6 +43,7 @@
 			"name": "medic"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b83dbb5c8d6f5be0b21577639b35e471",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compile.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "51c051c8feb1390303e2b4757f5ec1bf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_nsi_swat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

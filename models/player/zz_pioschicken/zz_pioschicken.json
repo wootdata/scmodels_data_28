@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ad33848d7dd07bc2344a8296077a00f0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\8. Pios Chicken",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

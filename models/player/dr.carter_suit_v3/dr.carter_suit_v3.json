@@ -68,6 +68,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b79106a898a4c9302e1b61faf8f53b3e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dr_Carter_suit_v3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

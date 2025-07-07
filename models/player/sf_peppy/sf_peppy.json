@@ -43,6 +43,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d0e89edc57066fce61f91aabc83eff88",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SF_peppy.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8637ddb0e1c4db58d6d075fa81617f51",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_shotgun3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

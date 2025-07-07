@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265565802,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "97a20657f449a7279ce9cbbdb2c6725f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Rangeblack.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

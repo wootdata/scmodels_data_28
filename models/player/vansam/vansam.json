@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "67abf3c852ee0aa714ca825f15d79015",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vanSam.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

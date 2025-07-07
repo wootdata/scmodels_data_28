@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d5a50587882c14702b0c8303696e876",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney_elite_new.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

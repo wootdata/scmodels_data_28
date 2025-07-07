@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -348,7 +349,11 @@
 	],
 	"id": 1414743113,
 	"md5": "df274dd5d6eec43664633e87aa2d9546",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_Shimakaze.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "efc4dc94f34de433e113f7b0fdfb494c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_allie-light.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

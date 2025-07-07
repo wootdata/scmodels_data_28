@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "296403b6aebcb20a77d4ba4c6aadaaae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Shotgun.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

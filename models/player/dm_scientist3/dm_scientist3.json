@@ -53,6 +53,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f316c3b313f36a6e17625c9924d693c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_scientist3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

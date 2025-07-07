@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0f23563f41f4bd2242fcc0f159ace95",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "naruto.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

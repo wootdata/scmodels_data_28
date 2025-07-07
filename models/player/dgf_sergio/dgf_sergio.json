@@ -33,6 +33,7 @@
 			"name": "DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0e32cf4d51f1b89f10df6a098af08e3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_Sergio.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

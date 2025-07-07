@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82bfd6a3edc68649470a8f03d105254e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cwc_HECU2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

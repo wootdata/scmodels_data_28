@@ -33,6 +33,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4f395dc37bae552d7b8b27225b8289a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SF_Falco.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

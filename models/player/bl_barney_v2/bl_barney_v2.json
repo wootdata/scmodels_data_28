@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "928c002f87ebbdc1ce808f40cb3f1d22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ballerina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

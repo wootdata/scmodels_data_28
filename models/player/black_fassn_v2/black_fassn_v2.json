@@ -18,6 +18,7 @@
 			"name": "hassassin"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -288,7 +289,11 @@
 	],
 	"id": 1414743113,
 	"md5": "30ec64b57affe0433d1c9327f042976c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "black_fassn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -690,7 +691,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c6fde6f21fa13c4b1b379f35dd07e176",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "1061_Karl_Gert.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6582f37e00fb7fe3c5e9ffc24bdb5b3e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ASlave.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ded693eed198c6da59012f2847858c0f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bunnygirl_white.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
