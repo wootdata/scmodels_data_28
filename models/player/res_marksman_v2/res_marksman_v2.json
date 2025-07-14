@@ -306,6 +306,7 @@
 	"md5": "de80d7d3225830de2676ff04ac240d6d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "re_succ_combat_response_unit.mdl",
 	"preview": true,
 	"readme": false,

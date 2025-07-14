@@ -301,6 +301,7 @@
 	"md5": "db93e2700fb09fe81d03fffaf0bde17a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "../compiled/cs_gign.mdl",
 	"preview": true,
 	"readme": false,
