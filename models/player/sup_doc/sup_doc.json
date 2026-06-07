@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1523091930,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "02a1cf0f05afa9beb9fc722bbc4f50ed",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Hgrunt.mdl",
 	"preview": false,
 	"readme": false,

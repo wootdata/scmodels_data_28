@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 960104468,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "a3c967ab1c67b2220dfd77420946f318",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\swarm\\sci\\sciguy.mdl",
 	"preview": true,
 	"readme": false,

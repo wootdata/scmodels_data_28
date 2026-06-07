@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579695361,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "bd2b7c87a1965c7bf319973799fb7cc5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Angelina.mdl",
 	"preview": false,
 	"readme": true,

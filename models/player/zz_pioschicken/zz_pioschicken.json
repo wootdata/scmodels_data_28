@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092281,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "ad33848d7dd07bc2344a8296077a00f0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\8. Pios Chicken",
 	"preview": true,
 	"readme": false,
